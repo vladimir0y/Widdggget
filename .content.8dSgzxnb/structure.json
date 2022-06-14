@@ -1,0 +1,56 @@
+{
+  "urls": {
+    "3": {
+      "url": "http://nftcomponents.vercel.app/static/css/main.css",
+      "folder": "html",
+      "filename": "af83fffc91efbe4ff1641e9a0fe6f42af2e53aac.00000003.css",
+      "filetime": "20220614122643",
+      "filesize": "281",
+      "mimetype": "text/css",
+      "charset": "utf-8",
+      "url_original": "http://nftcomponents.vercel.app/static/css/main.css"
+    }
+  }
+}
+{
+  "urls": {
+    "4": {
+      "url": "http://nftcomponents.vercel.app/static/js/main.js",
+      "folder": "binary",
+      "filename": "dca33d2d6eb8a159b5a5e3c3f1d23969dac34dea.00000004.data",
+      "filetime": "20220614122643",
+      "filesize": "3862650",
+      "mimetype": "application/javascript",
+      "charset": "utf-8",
+      "url_original": "http://nftcomponents.vercel.app/static/js/main.js"
+    }
+  }
+}
+{
+  "urls": {
+    "1": {
+      "url": "http://nftcomponents.vercel.app/",
+      "folder": "html",
+      "filename": "d57fa9d9ae038fccca5158585f4f855ff375a7bf.00000001.html",
+      "filetime": "20220614122643",
+      "filesize": "690",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://nftcomponents.vercel.app/"
+    }
+  }
+}
+{
+  "urls": {
+    "2": {
+      "url": "http://nftcomponents.vercel.app/robots.txt",
+      "folder": "html",
+      "filename": "b6bc11beb6fc32759aea7378b3958ef0e25be93b.00000002.html",
+      "filetime": "20220614122643",
+      "filesize": "690",
+      "mimetype": "text/html",
+      "charset": "utf-8",
+      "url_original": "http://nftcomponents.vercel.app/robots.txt"
+    }
+  }
+}
